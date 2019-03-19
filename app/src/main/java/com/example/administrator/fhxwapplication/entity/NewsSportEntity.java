@@ -81,7 +81,7 @@ public class NewsSportEntity {
          * style : {"type":"slides","images":["http://d.ifengimg.com/w164_h113_q80/p2.ifengimg.com/a/2016_51/96def5a292b3168_size47_w918_h663.jpg","http://d.ifengimg.com/w164_h113_q80/p1.ifengimg.com/a/2016_51/b4a5587d8d06501_size65_w929_h632.jpg","http://d.ifengimg.com/w164_h113_q80/p2.ifengimg.com/a/2016_51/6bc32dd2f41f80f_size85_w866_h806.jpg"],"slideCount":6}
          * online : 1
          * title : 亚冠小组赛抽签：恒大遭遇水原及香港球队 苏宁将战全北
-         * updateTime : 2016/12/13 16:38:18
+         * updateTime : 2019/03/19 16:38:18
          * id : http://api.iclient.ifeng.com/api_vampire_article_detail?aid=sub_5114501
          * documentId : sub_5114501
          * type : doc

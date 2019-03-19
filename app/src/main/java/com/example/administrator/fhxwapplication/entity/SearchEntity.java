@@ -3,7 +3,7 @@ package com.example.administrator.fhxwapplication.entity;
 import java.util.List;
 
 /**
- * Created by Administrator on 2016/12/12 0012.
+ * Created by Administrator on 2019/03/19 0012.
  */
 public class SearchEntity {
 
@@ -115,7 +115,7 @@ public class SearchEntity {
 
     public static class DataEntity {
         /**
-         * thumbnail : http://d.ifengimg.com/w134_h96_q80/p2.ifengimg.com/cmpp/2016/12/15/07/d3bb2b02-4a07-4bb4-a925-9ac8a74a1e8d_size27_w600_h376.jpg
+         * thumbnail : http://d.ifengimg.com/w134_h96_q80/p2.ifengimg.com/cmpp/2019/03/15/07/d3bb2b02-4a07-4bb4-a925-9ac8a74a1e8d_size27_w600_h376.jpg
          * online : 1
          * style : {"type":"slides","images":["http://d.ifengimg.com/w164_h113_q80/p1.ifengimg.com/ifengiclient/ipic/20161214/default_6350_c1a0ab22bca3a01a8507e4bea9358fe0_w594_h330.jpg","http://d.ifengimg.com/w164_h113_q80/p3.ifengimg.com/ifengiclient/ipic/20161214/default_6350_1cc46b235a6e3aa7e62c07369978b0fe_w640_h382.jpg","http://d.ifengimg.com/w164_h113_q80/p2.ifengimg.com/ifengiclient/ipic/20161214/default_6350_d52c65dc71c699881703ab39def5803f_w403_h253.jpg","http://d.ifengimg.com/w164_h113_q80/p1.ifengimg.com/ifengiclient/ipic/20161214/default_6350_69d4e50fd010ad6e84025eef3b36bc3d_w492_h264.jpg","http://d.ifengimg.com/w164_h113_q80/p0.ifengimg.com/ifengiclient/ipic/20161214/default_6350_c976d88fdc1c77945aa49bc14b0961f0_w420_h221.jpg"],"slideCount":7}
          * hasSlide : true
@@ -125,7 +125,7 @@ public class SearchEntity {
          * showType : 0
          * source : 中国新闻网
          * subscribe : {"cateid":"","type":"source","catename":"中国新闻网","logo":"","description":""}
-         * updateTime : 2016/12/15 07:47:18
+         * updateTime : 2019/03/19 07:47:18
          * id : http://api.iclient.ifeng.com/ipadtestdoc?aid=imcp_116478188
          * documentId : imcp_116478188
          * type : doc

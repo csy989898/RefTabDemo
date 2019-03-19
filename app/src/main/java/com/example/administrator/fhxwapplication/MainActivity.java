@@ -44,11 +44,8 @@ public class MainActivity extends AppCompatActivity {
         //设置tabHost
         /*
         * 参数1：context
-        *
         * 参数2：FragmentManager
-        *
         * 参数3：要显示的Fragment的容器id
-        *
         * */
         tabHost.setup(this,getSupportFragmentManager(),R.id.main_fragmentLayout);
 
@@ -64,11 +61,8 @@ public class MainActivity extends AppCompatActivity {
             //tabItem添加到tabHost中
             /*
             * 参数1：tab标签
-            *
             * 参数2：tab内容的Fragment类
-            *
             * 参数3：Bundle    可以传值到Fragment
-            *
             * */
             tabHost.addTab(tabItem,fragments[i],null);
             //tabHost去边线

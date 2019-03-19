@@ -3,7 +3,7 @@ package com.example.administrator.fhxwapplication.entity;
 import java.util.List;
 
 /**
- * Created by RealMo on 2016-12-11.
+ * Created by RealMo on 2019-03-19.
  */
 public class LiveContentEntity {
 
